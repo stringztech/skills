@@ -1,0 +1,34 @@
+{
+  "contract_version": "csi.android.capture/v1",
+  "ready": true,
+  "reason": "ready",
+  "device": {
+    "serial": "SAFE123",
+    "connected": true,
+    "authorized": true
+  },
+  "app": {
+    "package": "com.zhiliaoapp.musically",
+    "version_name": "fixture",
+    "version_code": "1",
+    "installed_verified": true
+  },
+  "capabilities": {
+    "device_authorized": true,
+    "device_unlocked": true,
+    "screen_capture": true,
+    "screen_reading": true,
+    "ocr": true,
+    "ui_tree": true,
+    "input_binary": true,
+    "tap_navigation": true
+  },
+  "screen": {
+    "width": 1080,
+    "height": 2410,
+    "hash": "431ced6916a2a21a156e38701afe55bbd7f88969fbbfc56d7fe099d47f265460",
+    "state": "CSI_LIST",
+    "package": "com.zhiliaoapp.musically",
+    "title": "Creator Search Insights"
+  }
+}
