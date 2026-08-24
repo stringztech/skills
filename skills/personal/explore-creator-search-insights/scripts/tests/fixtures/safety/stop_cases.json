@@ -1,0 +1,32 @@
+[
+  {
+    "name": "login wall",
+    "text": "Log in to TikTok to continue",
+    "reason_contains": "login"
+  },
+  {
+    "name": "captcha",
+    "text": "Verify to continue. Drag the puzzle piece into place.",
+    "reason_contains": "captcha"
+  },
+  {
+    "name": "anti automation",
+    "text": "Unusual traffic detected. Try again later.",
+    "reason_contains": "automation"
+  },
+  {
+    "name": "permission prompt",
+    "text": "Allow TikTok to access your contacts? Allow / Don't allow",
+    "reason_contains": "permission"
+  },
+  {
+    "name": "incoming call overlay",
+    "text": "WhatsApp — Incoming voice call",
+    "reason_contains": "call"
+  },
+  {
+    "name": "forced update",
+    "text": "Update TikTok to continue",
+    "reason_contains": "update"
+  }
+]

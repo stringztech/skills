@@ -1,0 +1,56 @@
+{
+  "bounded": [
+    {
+      "mode": "All",
+      "rows": [
+        {"term": "bounded topic zero", "metric": "100", "percentage": ""}
+      ]
+    },
+    {
+      "mode": "All",
+      "rows": [
+        {"term": "bounded topic one", "metric": "101", "percentage": "10.1%"}
+      ]
+    },
+    {
+      "mode": "All",
+      "rows": [
+        {"term": "bounded topic two", "metric": "102", "percentage": "10.2%"}
+      ]
+    },
+    {
+      "mode": "All",
+      "rows": [
+        {"term": "bounded topic three", "metric": "103", "percentage": "10.3%"}
+      ]
+    }
+  ],
+  "blocked": [
+    {
+      "mode": "Content gap",
+      "rows": [
+        {"term": "safe topic before stop", "metric": "199K", "percentage": ""}
+      ]
+    },
+    {
+      "mode": "Content gap",
+      "rows": [],
+      "stop_text": "Verify to continue. Drag the puzzle piece into place."
+    }
+  ],
+  "endpoint": [
+    {
+      "mode": "Content gap",
+      "rows": [
+        {"term": "alpha topic", "metric": "170K", "percentage": "79.5%"}
+      ]
+    },
+    {
+      "mode": "Content gap",
+      "rows": [
+        {"term": "beta topic", "metric": "171K", "percentage": ""}
+      ],
+      "endpoint_text": "No more searches"
+    }
+  ]
+}

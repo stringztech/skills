@@ -1,0 +1,7 @@
+interface:
+  display_name: "Creator Search Insights Explorer"
+  short_description: "Safely capture TikTok search-insight data"
+  default_prompt: "Use $explore-creator-search-insights to capture and audit Creator Search Insights from my authorized Android device without engaging with content."
+
+policy:
+  allow_implicit_invocation: false
